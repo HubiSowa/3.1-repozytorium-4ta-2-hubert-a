@@ -1,8 +1,8 @@
-# Minutnik � Zadanie 3.1
+# Minutnik Zadanie 3.1
 
 Aplikacja typu Pomodoro w technologii Avalonia (.NET 8). Cała logika znajduje się w jednym pliku MainWindow.axaml.cs, a aplikacja posiada zaimplementowaną historię cykli.
 
-## 1. Dane i pomiary z lekcji (stan na pa�dziernik 2026)
+## 1. Dane i pomiary z lekcji (stan na pażdziernik 2026)
 * **Narzędzie AI:** Claude / ChatGPT
 * **Data pomiaru:** 2026-10-28
 * **Rozmiar pierwszej wiadomości (po polsku):** ok. 150 tokenów
