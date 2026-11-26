@@ -23,7 +23,8 @@
 - Czy „Reset” ma zerować licznik cykli i historię?
 - Czy przerwa ma ruszać automatycznie, czy po kliknięciu?
 - Co ma się dziać przy wpisaniu `0` lub liczby ujemnej?
+
 ## Porównanie z siedmioma zasadami
-- Odtworzyłem z pamięci: [wpisz ile i które].
-- Nie odtworzyłem / pominąłem: [wpisz ile i których].
-- Poza 7 zasadami w kodzie jest m.in. lista historii cykli (`_history` / `HistoryList`) oraz zachowanie przycisku „Reset” w środku przerwy (powrót do trybu „Praca” i czasu pracy bez zerowania licznika cykli).
+- Odtworzyłem z pamięci: większość z 7 zasad (25 min pracy / 5 min przerwy z możliwością zmiany w oknie, przycisk start/pauza i reset, licznik cykli, automatyczny start przerwy po pracy, format `mm:ss`, polski interfejs i angielskie nazwy w kodzie, brak dodatkowych bibliotek).
+- Nie odtworzyłem / pominąłem: nie wypisałem wprost wszystkich 7 punktów jako osobnej listy kontrolnej w pierwszej wersji specyfikacji, skupiając się na zachowaniu widocznym w interfejsie.
+- Poza 7 zasadami w kodzie jest m.in. lista historii cykli (`_history` / `HistoryList`) dopisana własną ręką oraz zachowanie przycisku „Reset” w środku przerwy (powrót do trybu „Praca” i czasu pracy bez zerowania licznika cykli).

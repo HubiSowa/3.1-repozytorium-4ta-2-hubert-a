@@ -1,0 +1,1 @@
+﻿Od razu przez uruchomienie sprawdziłem podstawowe zachowania przycisków Start/Pauza i Reset, format mm:ss oraz reakcję pola czasu na wpisane wartości, natomiast pełnego 25-minutowego cyklu nie odczekałem w czasie rzeczywistym, bo w testach używałem krótszych wartości.
