@@ -23,3 +23,7 @@
 - Czy „Reset” ma zerować licznik cykli i historię?
 - Czy przerwa ma ruszać automatycznie, czy po kliknięciu?
 - Co ma się dziać przy wpisaniu `0` lub liczby ujemnej?
+## Porównanie z siedmioma zasadami
+- Odtworzyłem z pamięci: [wpisz ile i które].
+- Nie odtworzyłem / pominąłem: [wpisz ile i których].
+- Poza 7 zasadami w kodzie jest m.in. lista historii cykli (`_history` / `HistoryList`) oraz zachowanie przycisku „Reset” w środku przerwy (powrót do trybu „Praca” i czasu pracy bez zerowania licznika cykli).
